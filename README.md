@@ -34,7 +34,7 @@ const ClientDeviceAuthAdapter = require('epicgames-client-deviceauth-adapter');
 ```
 
 # Exchange Code
-You can get one [here](https://www.epicgames.com/id/logout?redirectUrl=https%3A//www.epicgames.com/login%3FredirectUrl%3Dhttps%253A%252Fwww.epicgames.com%252Fid%252Fapi%252Fexchange)!
+You can get one [here](https://www.epicgames.com/id/logout?lang=en-US&redirectUrl=https%3A//www.epicgames.com/id/login%3FredirectUrl%3Dhttps%253A%252F%252Fwww.epicgames.com%252Fid%252Fapi%252Fexchange&lang=en-US)!
 An exchange code is a onetime code that expires after 300 seconds.
 You will only have to get it once. If you want to login with a new account,
 delete the deviceAuth file (by default at .egstore/deviceAuth.json) and get a
