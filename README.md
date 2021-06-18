@@ -41,7 +41,7 @@ delete the deviceAuth file (by default at .egstore/deviceAuth.json) and get a
 new exchange code for the account you want to add.
 
 # Do you need help?
-Join our discord server: https://discord.gg/PRJs3e6
+Join our discord server: https://discord.gg/eZsTAr2sdw
 
 # License
 MIT License
