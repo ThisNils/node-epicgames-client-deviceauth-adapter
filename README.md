@@ -34,7 +34,7 @@ const ClientDeviceAuthAdapter = require('epicgames-client-deviceauth-adapter');
 ```
 
 # Exchange Code
-As you cant obtain exchange codes in the browser anymore you need to use [my tool](https://github.com/ThisNils/exchange-code-generator/releases/download/1.1/get-exchange-code-win.zip) or your own way!
+As you cant obtain exchange codes in the browser anymore you need to use [my tool](https://github.com/ThisNils/exchange-code-generator/releases/download/2.0.1/get-exchange-code-win.zip) or your own way!
 An exchange code is a onetime code that expires after 300 seconds.
 You will only have to get it once. If you want to login with a new account,
 delete the deviceAuth file (by default at .egstore/deviceAuth.json) and get a
